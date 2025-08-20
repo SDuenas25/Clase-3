@@ -1,0 +1,50 @@
+body{
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 20px;
+}
+
+.title{
+    background-color: rgb(225, 112, 135);
+    border: 2px solid grey;
+    width: fit-content;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 15%;
+
+}
+
+.title-1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title-3{
+    background-color: rgb(179, 159, 159);
+    border: 1px solid salmon;
+    width: fit-content;
+    padding: 1em;
+}
+
+.title-4{
+    color:rgb(225, 112, 135);
+
+}
+
+#dias{
+    border: 1.5px solid black;
+    width: fit-content;
+    padding: 0px 2em 0px 0px;
+    font-weight: bold;
+    font-family: cursive;
+}
+#dias:hover{
+    background-color: coral;
+    transition: 0.5s;
+    color: antiquewhite;
+}
+#enlace:hover{
+    background-color: coral;
+    transition: 0.5s;
+    color: antiquewhite;
+}
